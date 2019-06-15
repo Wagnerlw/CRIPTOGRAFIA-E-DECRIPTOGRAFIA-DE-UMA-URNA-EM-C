@@ -7,3 +7,28 @@ chave (um número) e a letra digitada é alterada pela letra que se situa na pos
 pela chave. A chave do algoritmo será a seguinte: Para cada letra digitada, você deverá
 incrementar as letras cinco caracteres para frente.
 No caso dos números elevai ser decrementados em três dígitos ( Lembrando que a ordem dos números segue de 0 até 9).
+
+
+O menu seguirar o modelo a seguir quando abrir.
+Escolha a opcao
+0. Sair
+1. Adicionar mensagem
+2. Exibir lista cripto
+3. Exibir decripto
+Opcao:
+
+0. Sair
+Ira quebrar e fehcar sua apliacação.
+
+1. Adicionar mensagem
+Sevira para adicionar a mensgaem que vc gostaria de criptografar, sendo numeros e/ou letras.
+
+2. Exibir lista cripto
+Ira exibir a mensagem adicionada na opção de acima, só que ja complementando a cripotgrafia.
+
+3. Exibir decripto
+Em vez de de apenas replicar a mensagem adicionada a na opção 1, ela pegara a mensagem criptografada na opção 2 e ira transofmar na mensagem originalm adionada anteriomente.
+
+Projeto criado e desenvolvido por:
+-Wagner Lamb Wylot
+-Lucas Adriel Pimenta da Silva
