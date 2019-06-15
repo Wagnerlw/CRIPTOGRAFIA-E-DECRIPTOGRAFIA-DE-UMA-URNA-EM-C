@@ -21,7 +21,7 @@ Opcao:
 Ira quebrar e fehcar sua apliacação.
 
 1. Adicionar mensagem
-Sevira para adicionar a mensgaem que vc gostaria de criptografar, sendo numeros e/ou letras.
+Sevira para adicionar a mensagem que você gostaria de criptografar, sendo numeros e/ou letras.
 
 2. Exibir lista cripto
 Ira exibir a mensagem adicionada na opção de acima, só que ja complementando a cripotgrafia.
