@@ -30,5 +30,4 @@ Ira exibir a mensagem adicionada na opção de acima, só que ja complementando 
 Em vez de de apenas replicar a mensagem adicionada a na opção 1, ela pegara a mensagem criptografada na opção 2 e ira transofmar na mensagem originalm adionada anteriomente.
 
 Projeto criado e desenvolvido por:
--Wagner Lamb Wylot
--Lucas Adriel Pimenta da Silva
+Wagner Lamb Wylot e Lucas Adriel Pimenta da Silva
