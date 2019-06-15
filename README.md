@@ -4,7 +4,7 @@ Usando a ideia do Criptograma de César, com base no vocabulário. É passada um
 chave (um número) e a letra digitada é alterada pela letra que se situa na posição indicada
 pela chave. A chave do algoritmo será a seguinte: Para cada letra digitada, você deverá
 incrementar as letras cinco caracteres para frente.
-No caso dos números elevai ser decrementados em três dígitos ( Lembrando que a ordem dos números segue de 0 até 9).
+No caso dos números elevai ser decrementados em três dígitos (Lembrando que a ordem dos números segue de 0 até 9).
 
 
 O menu seguir representa o modelo quando abrir for abrira a aplicação.
@@ -17,13 +17,13 @@ Escolha a opcao
 3. Exibir decripto
 Opcao:
 
-*0. Sair = Ira quebrar e fehcar sua apliacação.
+*0. Sair = Ira quebrar e fechar sua aplicação.
 
 *1. Adicionar mensagem = Sevira para adicionar a mensagem que você gostaria de criptografar, sendo numeros e/ou letras.
 
-*2. Exibir lista cripto = Ira exibir a mensagem adicionada na opção de acima, só que ja complementando a cripotgrafia.
+*2. Exibir lista cripto = Ira exibir a mensagem adicionada na opção de acima, só que ja complementando a criptografia.
 
-*3. Exibir decripto =Em vez de de apenas replicar a mensagem adicionada a na opção 1, ela pegara a mensagem criptografada na opção 2 e ira transofmar na mensagem original adionada anteriomente.
+*3. Exibir decripto =Em vez de apenas replicar a mensagem adicionada a na opção 1, ela pegara a mensagem criptografada na opção 2 e ira transformar na mensagem original adicionada anteriormente.
 
 Projeto criado e desenvolvido por:
 Wagner Lamb Wylot e Lucas Adriel Pimenta da Silva
